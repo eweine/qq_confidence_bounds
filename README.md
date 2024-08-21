@@ -1,4 +1,7 @@
 # qqconf
+
+![](https://cranlogs.r-pkg.org/badges/grand-total/qqconf?color=green)
+
 An R Package to Put Simultaneous Testing Bands on QQ and PP Plots
 
 To install our code from CRAN, run
